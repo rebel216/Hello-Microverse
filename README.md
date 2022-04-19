@@ -1,6 +1,11 @@
-# Hello-Microverse
+**Project Description
 
+Hands-on the github Functions , Github Workflows and Linters usage.
 
-Project is an hands-on with git work flows , Linters.
-Built With: HTML AND CSS
+**Built With
 
+-HTML , CSS , Linters.
+
+**Authors
+
+- Twitter : [@rebel216](https://twitter.com/rebel216)
